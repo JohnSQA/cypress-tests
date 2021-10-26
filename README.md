@@ -11,6 +11,6 @@
 
 Commands for running a test:
 
-npm i (to install dependencies)
-npm run cy:run or npm run cy:open (to run tests)
+`npm i (to install dependencies)`
+`npm run cy:run or npm run cy:open (to run tests)`
 }
