@@ -6,6 +6,6 @@
 
     2. I did see data-qa locators that I assume are used for finding elements on the page, however not everywhere.
     
-    3. Since it was 1 single test flow, I didn't implement page object approach, however it would be good to have it when more tests are implemented.
+    3. Since it was 1 single test flow, I didn't implement page object approach, however it would be good to have it when more tests are implemented.  
 
 }
