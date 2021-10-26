@@ -1,3 +1,6 @@
 .DS_Store
-homebrew/
-node_modules/
+homebrew
+node_modules
+build
+output
+.idea
